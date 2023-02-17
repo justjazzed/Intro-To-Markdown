@@ -32,3 +32,12 @@ be displayed as __Strong Text__
 <!--Strike Through-->
 
 ~~Strike Through bang bang~~
+
+---
+
+<!--Horizontal rule-->
+
+Wasy of adding __Horizontal Riles__
+
+___
+
