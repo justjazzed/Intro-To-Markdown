@@ -28,3 +28,7 @@ This is and example of **Strong Text** , Anything between the opening asterisk a
 
 This is another example of way to have __Strong Text__ in our Document. anything between the two double opening underscore and closing underscore will 
 be displayed as __Strong Text__
+
+<!--Strike Through-->
+
+~~Strike Through bang bang~~
